@@ -6,5 +6,5 @@ SolarMAX_gridMIN.py: This script is used to Set the Max Grid Charge current to m
 GoToBattery_SwitchGridOff.py: This is a creative mode to switch the AC supply to the inverter off and force it into Solar/Battery mode. It basicly reduce the To Battery Baterry Voltage below the current voltage.
 
 <B>HANDY TOOLS</B>
--MQTT Explorer
+-MQTT Explorer <b>
 -<a href="https://pypi.org/project/paho-mqtt/#installation">https://pypi.org/project/paho-mqtt/#installation</a>
