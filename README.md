@@ -4,3 +4,7 @@ Solar-Assistant (https://solar-assistant.io/) is software to monitor and control
 SolarMAX_gridMIN.py: This script is used to Set the Max Grid Charge current to make sure that the grid is not over used while solar power is available.
 
 GoToBattery_SwitchGridOff.py: This is a creative mode to switch the AC supply to the inverter off and force it into Solar/Battery mode. It basicly reduce the To Battery Baterry Voltage below the current voltage.
+
+<B>HANDY TOOLS</B>
+-MQTT Explorer
+-<a href="https://pypi.org/project/paho-mqtt/#installation">https://pypi.org/project/paho-mqtt/#installation</a>
