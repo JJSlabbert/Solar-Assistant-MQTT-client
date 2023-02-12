@@ -11,5 +11,5 @@ GoToBattery_SwitchGridOff.py: This is a creative mode to switch the AC supply to
 
 -<a href="https://pypi.org/project/paho-mqtt/#installation">https://pypi.org/project/paho-mqtt/#installation</a>
 
-
+MQTT Explorer can assist to get mqtt topics
 ![MQTT_explorer_output](https://user-images.githubusercontent.com/38969599/218340039-4c75988e-688d-4592-a8c8-425108d2c6df.jpg)
