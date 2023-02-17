@@ -7,6 +7,8 @@ Solar-Assistant (https://solar-assistant.io/) is software to monitor and control
 
 <B>BatHealth.py:</B> Some measures usefull for battery health.
 
+<B>Gen_Reading_all_messages.py: </B> Reading topics and payloads for all messages.
+
 <B>HANDY TOOLS</B>
 
 -MQTT Explorer
