@@ -15,3 +15,6 @@ Solar-Assistant (https://solar-assistant.io/) is software to monitor and control
 
 MQTT Explorer can assist to get mqtt topics
 ![MQTT_explorer_output](https://user-images.githubusercontent.com/38969599/218340039-4c75988e-688d-4592-a8c8-425108d2c6df.jpg)
+
+Codoe tested on the 5KW Sacolar (Growatt SPF) Inverter monitored via USB CP2102 UART BRIDGE and Battery Compatable with PBMS tools (15 cell P15S100A) monitored via USB Serial RS232/RS485
+My inverter and BMS is not directly connected. Inverter setting 5: USE
