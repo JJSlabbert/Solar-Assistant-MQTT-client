@@ -11,6 +11,8 @@ Solar-Assistant (https://solar-assistant.io/) is software to monitor and control
 
 <B>Gen_Reading_all_messages.py: </B> Reading topics and payloads for all messages.
 
+<B>pub_to_cayenne.py:</B> A bridge between the Solar-assistant and Cayenne mqtt Brokers.
+
 <B>HANDY TOOLS</B>
 
 -MQTT Explorer
